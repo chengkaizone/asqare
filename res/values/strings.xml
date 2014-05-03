@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello Candy!</string>
+    <string name="app_name">糖果连连看</string>
+
+</resources>
